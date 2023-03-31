@@ -1,7 +1,7 @@
 {
-  "name": "basic",
-  "version": "1.0.0",
-  "description": "",
+  "name": "learning_node",
+  "version": "1.1.0",
+  "description": "Learning NodeJS, Express, MongoDB and PostMan",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
